@@ -26,7 +26,8 @@ export const products: Product[] = [
     "description": "Camisa Over Ayudarme com corte moderno e tecido premium. Ideal para compor um look streetwear autêntico.",
     "sizes": ["P", "M", "G", "GG"],
     "isNew": true,
-    "isBestSeller": true
+    "isBestSeller": true,
+    "isSoldOut": true
   },
   {
     "id": "2",
